@@ -15,9 +15,7 @@
 
 ## Objectives
 
-* Create an array called `friends`. It will hold five of your friends'
-
-names.
+* Create an array called `friends`. It will hold five of your friends' names.
 
 * For every friend in the friend array, you will want to `console.log` the descending chorus of this brand-new, never before seen song 100 times. The lyric must include your friend's name, and must be grammatically correct when we get down to 1. See the example output for more information.
 
