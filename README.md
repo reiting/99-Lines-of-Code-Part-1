@@ -1,7 +1,7 @@
 # FS-SP17-Lab2
 # Lab 02: 99 Lines of Code In The File - Part 1
 
-##### Depot/U
+##### Covalence
 
 ###### Full Stack: Spring 2017
 
